@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amarnath-Naik
+<--👋 Hi, I’m @Amarnath-Naik -->
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DSA, Python, PowerBI and SQL
 - 💞️ I’m looking to collaborate on Data Science Projects...
